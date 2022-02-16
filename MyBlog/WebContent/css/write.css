@@ -1,0 +1,25 @@
+#group {
+	background-color: #B0C4DE;
+	float: left;
+	width: 20%;
+	height: 800px;
+	font-size: 25px;
+	line-height: 30px;
+}
+#panels {
+	float: left;
+	width: 80%;
+	height: 300px;
+}
+#container {
+	position: absolute;
+	top: 0px;
+	left: 20px;
+	width: 10px;
+}
+.container {
+	 position: absolute;
+	 top: 0px;
+	 right: 20px;
+	 width: 200px;
+}

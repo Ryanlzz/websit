@@ -1,0 +1,162 @@
+@CHARSET "UTF-8";
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: url("1.jpg");
+}
+
+.div1 {
+	padding-top: 20px;
+	margin: auto;
+	height: 140px;
+	width: 1200px;
+}
+
+.d1 {
+	margin-top: 10px;
+	float: right;
+	margin-right: 80px;
+	border: 1px solid #ccc;
+	padding: 5px;
+	border-radius: 5px;
+	background: #f00;
+}
+
+.d1 a {
+	text-decoration: none;
+	font-size: 18px;
+	background: #f00;
+	color: #fff;
+	border-radius: 5px;
+}
+
+li {
+	float: left;
+	margin-top: 10px;
+	margin-left: 70px;
+	list-style: none;
+	cursor: pointer;
+}
+
+.d1 a:hover {
+	background: #fff;
+	color: #f00;
+}
+
+.p1 {
+	margin-left: 80px;
+	font-size: 30px;
+	color: #262626;
+}
+
+.div2 {
+	height: 40px;
+	width: 2000xp;
+	background: #d0a685;
+}
+
+.d2 {
+	margin: auto;
+	height: 40px;
+	width: 1200px;
+}
+
+.bu {
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+.te {
+	height: 18px;
+	margin-top: 10px;
+	margin-left: 200px;
+}
+
+.d2 a {
+	color: #fff;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+.d2 a:hover {
+	color: #f00;
+}
+
+.content {
+	height: 300px;
+	width: 800px;
+	background: #fff;
+	margin: auto;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+.bar clearfix {
+	height: 60px;
+	width: 800px;
+	background: red;
+	margin: auto;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+.a {
+	display: inline-block;
+	height: 30px;
+	width: 30px;
+	text-decoration: none;
+	font-size: 18px;
+	color: #fff;
+	background: #d0a685;
+	border: 1px solid #ccc;
+	border-radius: 30px;
+	margin-left: 10px;
+	text-align: center;;
+	line-height: 30px;
+}
+
+.b, .b1 {
+	display: inline-block;
+	height: 30px;
+	width: 60px;
+	text-decoration: none;
+	font-size: 18px;
+	color: #fff;
+	background: #d0a685;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-left: 10px;
+	text-align: center;;
+	line-height: 30px;
+}
+
+.b {
+	margin-left: 550px;
+	width: 120px;
+}
+
+.bar {
+	height: 60px;
+	width: 800px;
+	background: #fff;
+	margin: auto;
+
+}
+
+.div3 {
+	width: 200px;
+	float: left;
+	margin-left: 150px;
+}
+
+.div4 {
+	float: right;
+	width: 300px;
+	height: 150px;
+	position: relative;
+	margin: 10px 0;
+	margin-right: 50px;
+}

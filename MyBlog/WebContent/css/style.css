@@ -1,0 +1,132 @@
+*{
+		margin: 0px;
+		padding: 0px;
+	}
+	body{
+		background: url("../images/3.jpg");
+		background-repeat:no-repeat;
+		background-size:100% 100%;
+		background-attachment: fixed;
+		margin:auto;
+		
+	}
+	
+		.div1{
+			padding-top: 20px;
+			margin:auto;
+			height: 140px;
+			width:1200px;
+		}
+		.d1{
+			margin-top: 10px;
+			float: right;
+			margin-right: 80px;
+			border:1px solid #ccc;
+			padding: 5px;
+			border-radius: 5px;
+			background: #f00;
+		}
+		.d1 a{
+			text-decoration: none;
+			font-size: 18px;
+			background: #f00;
+			color: #fff;
+			border-radius: 5px;
+
+		}
+		li{
+			float: left;
+			margin-top: 10px;
+			margin-left: 70px;
+			list-style: none;
+			cursor: pointer;
+		}
+		.d1 a:hover{
+			background: #fff;
+			color: #f00;
+		}
+		.p1{
+			margin-left:80px;
+			font-size: 30px;
+			color: #262626;
+
+		}
+		.div2{
+			height: 40px;
+			width: 2000xp;
+			background:#d0bd84;
+		}
+
+		.d2{
+
+			margin:auto;
+			height: 40px;
+			width: 1200px;
+			
+		}
+		.bu{
+
+			margin-top: 10px;
+			margin-left: 20px;
+		}
+		.te{
+			height: 18px;
+			margin-top: 10px;
+			margin-left: 200px;
+		}
+		.d2 a{
+			color: #fff;
+			font-size: 18px;
+			text-decoration: none;
+		}
+		.d2 a:hover{
+			color: #f00;
+		}
+		
+	.d{
+		height: 300px;
+		width: 800px;
+		background:#fff;
+		margin:auto;
+		margin-bottom: 10px;
+		border-radius: 5px;
+	}
+	.a{
+		display: inline-block;
+		height: 30px;
+		width: 30px;
+		text-decoration: none;
+		font-size: 18px;
+		color: #fff;
+		background:#d0a685;
+		border:1px solid #ccc;
+		border-radius: 30px;
+		margin-left: 10px;
+		text-align: center;;
+		line-height: 30px; 
+	}
+	.b,.b1{
+		display: inline-block;
+		height: 30px;
+		width: 60px;
+		text-decoration: none;
+		font-size: 18px;
+		color: #fff;
+		background:#d0a685;
+		border:1px solid #ccc;
+		border-radius: 5px;
+		margin-left: 10px;
+		text-align: center;;
+		line-height: 30px; 
+	}
+	.b{
+		margin-left: 630px;
+	}
+	textarea{
+		height: 200px;
+		width: 765px;
+		resize: none;
+		readonly;
+		overflow-y;
+		border-bottom:1px solid #ccc;
+	}
